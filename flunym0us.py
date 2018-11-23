@@ -29,6 +29,7 @@ import signal
 import urllib2
 import httplib
 import argparse
+import requests
 import threading
 import multiprocessing
 
